@@ -1,2 +1,2 @@
 # master-thesis
-Android application for making doctors appointments
+My master's thesis project is a health application that tracks vital metrics, manages fitness goals, and provides personalized recommendations.
